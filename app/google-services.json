@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "651141897321",
+    "firebase_url": "https://sd-map-project.firebaseio.com",
+    "project_id": "sd-map-project",
+    "storage_bucket": "sd-map-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651141897321:android:24284c6b44dae53b",
+        "android_client_info": {
+          "package_name": "com.example.farb.trafficdatahandler_googlemappapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651141897321-0mln9f68osf9942dv4qgp1nrubm5ifuv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIwNn12QdMox0eYRaW1v7m6XdwO0Q6FGI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651141897321:android:170c871ef1793318",
+        "android_client_info": {
+          "package_name": "com.example.afrina.googlemapapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651141897321-0mln9f68osf9942dv4qgp1nrubm5ifuv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIwNn12QdMox0eYRaW1v7m6XdwO0Q6FGI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651141897321:android:8647bbeca1fb6371",
+        "android_client_info": {
+          "package_name": "com.example.afrina.project_google_map"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651141897321-0mln9f68osf9942dv4qgp1nrubm5ifuv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIwNn12QdMox0eYRaW1v7m6XdwO0Q6FGI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
